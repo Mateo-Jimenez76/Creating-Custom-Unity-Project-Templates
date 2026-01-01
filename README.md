@@ -71,8 +71,11 @@ The contents of the "project.manifest" will look something like this
 ```
 # Step 3: Compress And Put Back Into \[EditorVersion]...\ProjectTemplates 
 1. Save your changed to the package.manifest file
-2. Compress 
+2. Compress the inner folder and the outer folders back into .tar achives using a tool like [7-zip](https://www.7-zip.org/)
+3. Place back into C:\Program Files\Unity\Hub\Editor\[YourEditorVersion]\Editor\Data\Resources\PackageManager\ProjectTemplates
 
+And your Done :D
+Open up Unity Hub and look for your new template when creating a project with the specified unity version.
 
 ## Understanding the "project.manifest" file
 
