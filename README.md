@@ -23,9 +23,13 @@ You can also change the versions of the packages so you don't have to keep updat
 3. Copy the one you would like to use as a base into a separate location.
 
 # Step 2: Extract contents and edit "project.manifest".
-1. Extract the copied folder and open it; you will find another compress folder inside a ".tar".
-2. Extract the second folder and open it; inside you will find a folder named "package" which holds the contents of the template.
-3. Open the "project.manifest" file which is located at the root of the "package" folder. \
+1. Extract the copied folder and open it; inside you will find a folder named "package" which holds the contents of the template.
+
+> [!IMPORTANT]
+> Depending on your version of the Unity Editor there may be another folder that you need to extract. Just remember that you are looking for a "package" folder
+> and to convert any extracted folders back into a .tar archive at the end.
+
+2. Open the "project.manifest" file which is located at the root of the "package" folder. \
 The contents of the "project.manifest" will look something like this
 
 ```
