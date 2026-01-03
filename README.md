@@ -1,6 +1,6 @@
 # Creating Custom Unity Project Templates
 Instructions for creating custom project templates for the unity game engine. Ex: "Universal 2D", "Universal 3D" \
-Accurate as of 12/13/2025 Unity Version 6000.2.6f2. \
+Accurate as of 12/13/2025 for only Unity Version 6000.2.6f2. \
 This guide is written for Windows.
 
 # Quick Overview
